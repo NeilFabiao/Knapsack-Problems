@@ -9,7 +9,9 @@ Two problems are considered:
 
 ### Visualization of Steps ###
 
-![alt-text-1](/Project/img/bag4.gif) 
+
+
+<h2 align="center">![alt-text-1](/Project/img/bag4.gif)</h2>
 
 ### Repo structure ###
 
@@ -41,3 +43,4 @@ To run the implementations located in src simply select the '.ipynb' file.
 
 * Repo owner Neil Fabião -> @neilfabiao or neilfabiao@gmail.com ✌🏾
 
+![](https://komarev.com/ghpvc/?username=neilDO&color=blue)
