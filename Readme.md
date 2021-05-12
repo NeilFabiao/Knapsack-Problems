@@ -11,7 +11,7 @@ Two problems are considered:
 
 
 
-<h2 align="center">![alt-text-1](/Project/img/bag4.gif)</h2>
+<p align="center">![alt-text-1](/Project/img/bag4.gif)</p>
 
 ### Repo structure ###
 
