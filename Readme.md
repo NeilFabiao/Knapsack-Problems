@@ -11,7 +11,7 @@ Two problems are considered:
 
 
 
-<p align="center">![alt-text-1](/Project/img/bag4.gif)</p>
+![alt-text-1](/Project/img/bag4.gif)
 
 ### Repo structure ###
 
@@ -43,4 +43,4 @@ To run the implementations located in src simply select the '.ipynb' file.
 
 * Repo owner Neil Fabião -> @neilfabiao or neilfabiao@gmail.com ✌🏾
 
-![](https://komarev.com/ghpvc/?username=neilDO&color=blue)
+![](https://komarev.com/ghpvc/?username=neilDO1&color=blue)
