@@ -41,4 +41,4 @@ To run the implementations located in src simply select the '.ipynb' file.
 
 * Repo owner Neil Fabião -> @neilfabiao or neilfabiao@gmail.com ✌🏾
 
-![](https://komarev.com/ghpvc/?username=neilDO10&color=blue)
+![](https://komarev.com/ghpvc/?username=neilDO120&color=blue)
