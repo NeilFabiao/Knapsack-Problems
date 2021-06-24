@@ -23,7 +23,7 @@ To run the implementations located in src simply select the '.ipynb' file.
 
 *Note:* The complete report for this project will be made avaliable for the time being.
 
-### References###
+### References ###
 
 1. Discrete Optimization lecturer @ Wits
 
